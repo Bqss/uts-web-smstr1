@@ -131,6 +131,7 @@ body{
     left: 5em;
     background-color: black;
     opacity: 1;
+    filter: brightness(.7);
 
     
     
@@ -255,6 +256,7 @@ body{
     border-collapse:collapse;
     box-shadow: 2px -2px 14px rgb(84, 84, 84);
     color: black;
+    transition:0.6s;
 }
 .table .tabel:hover{
     margin-top:2.5rem;
